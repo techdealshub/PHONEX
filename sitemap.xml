@@ -1,98 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://techdealshub.online/</loc></url>
+  <url><loc>https://techdealshub.online/iPhone17promax.html</loc></url>
+  <url><loc>https://techdealshub.online/iphone17promaxMarcket.html</loc></url>
+  <url><loc>https://techdealshub.online/iphone17pro.html</loc></url>
+  <url><loc>https://techdealshub.online/iphone17probuy.html</loc></url>
+  <url><loc>https://techdealshub.online/iphone17air.html</loc></url>
+  <url><loc>https://techdealshub.online/iphone17airbuy.html</loc></url>
+  <url><loc>https://techdealshub.online/iphone17e.html</loc></url>
+  <url><loc>https://techdealshub.online/iphone17ebuy.html</loc></url>
+  <url><loc>https://techdealshub.online/iphone17.html</loc></url>
+  <url><loc>https://techdealshub.online/iphone17buy.html</loc></url>
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url><loc>https://techdealshub.online/samsungs24ultra.html</loc></url>
+  <url><loc>https://techdealshub.online/samsungs24ultrabuy.html</loc></url>
+  <url><loc>https://techdealshub.online/samsungs24.html</loc></url>
+  <url><loc>https://techdealshub.online/samsungs24buy.html</loc></url>
 
-<url>
-<loc>https://techdealshub.online/</loc>
-<lastmod>2026-07-09</lastmod>
-<priority>1.0</priority>
-</url>
+  <url><loc>https://techdealshub.online/samsungs23ultra.html</loc></url>
+  <url><loc>https://techdealshub.online/samsungs23ultrabuy.html</loc></url>
+  <url><loc>https://techdealshub.online/samsungs23.html</loc></url>
+  <url><loc>https://techdealshub.online/samsungs23buy.html</loc></url>
 
-<url>
-<loc>https://techdealshub.online/iPhone17promax.html</loc>
-<lastmod>2026-07-09</lastmod>
-<priority>0.8</priority>
-<image:image>
-<image:loc>https://techdealshub.online/images/iphone17promax.webp</image:loc>
-<image:title>iPhone 17 Pro Max</image:title>
-</image:image>
-</url>
+  <url><loc>https://techdealshub.online/samsungzfold6.html</loc></url>
+  <url><loc>https://techdealshub.online/samsungzfold6buy.html</loc></url>
 
-<url>
-<loc>https://techdealshub.online/iphone17promaxMarcket.html</loc>
-<lastmod>2026-07-09</lastmod>
-<priority>0.8</priority>
-</url>
+  <url><loc>https://techdealshub.online/samsunga54.html</loc></url>
+  <url><loc>https://techdealshub.online/samsunga54buy.html</loc></url>
 
-<url>
-<loc>https://techdealshub.online/iphone17pro.html</loc>
-<lastmod>2026-07-09</lastmod>
-<priority>0.8</priority>
-<image:image>
-<image:loc>https://techdealshub.online/images/iphone17pro.webp</image:loc>
-<image:title>iPhone 17 Pro</image:title>
-</image:image>
-</url>
-
-<url>
-<loc>https://techdealshub.online/iphone17probuy.html</loc>
-<lastmod>2026-07-09</lastmod>
-<priority>0.8</priority>
-</url>
-
-<url>
-<loc>https://techdealshub.online/iphone17air.html</loc>
-<lastmod>2026-07-09</lastmod>
-<priority>0.8</priority>
-</url>
-
-<url>
-<loc>https://techdealshub.online/iphone17airbuy.html</loc>
-<lastmod>2026-07-09</lastmod>
-<priority>0.8</priority>
-</url>
-
-<url>
-<loc>https://techdealshub.online/iphone17e.html</loc>
-<lastmod>2026-07-09</lastmod>
-<priority>0.8</priority>
-</url>
-
-<url>
-<loc>https://techdealshub.online/iphone17ebuy.html</loc>
-<lastmod>2026-07-09</lastmod>
-<priority>0.8</priority>
-</url>
-
-<url>
-<loc>https://techdealshub.online/iphone17.html</loc>
-<lastmod>2026-07-09</lastmod>
-<priority>0.8</priority>
-</url>
-
-<url>
-<loc>https://techdealshub.online/iphone17buy.html</loc>
-<lastmod>2026-07-09</lastmod>
-<priority>0.8</priority>
-</url>
-
-<url>
-<loc>https://techdealshub.online/phonexaboutus.html</loc>
-<lastmod>2026-07-09</lastmod>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://techdealshub.online/phonexprivacypolicy.html</loc>
-<lastmod>2026-07-09</lastmod>
-<priority>0.3</priority>
-</url>
-
-<url>
-<loc>https://techdealshub.online/phonexcontact.html</loc>
-<lastmod>2026-07-09</lastmod>
-<priority>0.5</priority>
-</url>
+  <url><loc>https://techdealshub.online/phonexaboutus.html</loc></url>
+  <url><loc>https://techdealshub.online/phonexcontact</loc></url>
+  <url><loc>https://techdealshub.online/phonexprivacypolicy.html</loc></url>
 
 </urlset>
